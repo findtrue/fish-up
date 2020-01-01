@@ -12,3 +12,8 @@
     必须掌握的数据库之一
    
 hehe 说的玩的,别当真
+for i in range(32):
+    print('hellow world')
+    print('show fetch')
+
+
